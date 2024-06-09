@@ -31,6 +31,7 @@ RPG의 기본적인 움직임과 공격 및 스킬등을 구현했다.
   - 플레이어를 감지하는 범위와 공격 범위를 만들고, 그 안에 플레이어를 나타내는 Sprite가 들어오면 적의 애니메이션을 재생시킨다.
 
 ex) 플레이어가 적의 공격범위에 들어왔을 경우 
+
 ![image](https://github.com/Namkungsik/Assassination-Of-Shogun/assets/83630680/f3c10186-d6c9-40b9-b718-fc86dc622af3)
 
 
